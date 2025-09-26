@@ -506,14 +506,14 @@ p,
 }
 
 .button-tertiary {
-  background-color: #0099ff;
+  background-color: #fdd5f5;
   color: #fff;
-  border-color: #0099ff;
+  border-color: #fdd5f5;
 }
 
 .button-tertiary:hover {
   background-color: transparent;
-  color: #0099ff;
+  color: #fdd5f5;
 }
 
 .button-twitter {
