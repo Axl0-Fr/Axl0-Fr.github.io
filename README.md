@@ -6,7 +6,11 @@
 
 This is the repo where all of my website (and subwebsites) are hosted. You can expect to find sourcecode, images, and various resources.
 
-## Legal shenanigan
+## Do you want to contribute?
+
+Feel free to help with this project anytime! Comments, bug reports, or any help will be gratly apprciated. Feel free to contact me on any of my [socials](https://www.axl0.fr/#4)
+
+## Legal shenanigans
 
 ### Attribution
 
