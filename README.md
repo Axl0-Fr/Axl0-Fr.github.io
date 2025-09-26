@@ -23,7 +23,7 @@ Any modified version of this code must also be distributed under CC BY‑NC‑
 ### What your license should look like if you use my code
 
 If you just used tidbits of my code in your original project:
-Just mention me in the sourcecode with a comment, that'll be enough.
+Just mention me in the sourcecode with a comment and a link: `// This section of code is made by Axl0 (https://www.axl0.fr/)`
 
 If your code is just a modified version of mine:
-`© Your name — Original code by [Axl0](https://www.axl0.fr)`
+`© Your name — Original code by [Axl0](https://www.axl0.fr/)`
