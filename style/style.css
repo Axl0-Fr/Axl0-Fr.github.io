@@ -505,6 +505,17 @@ p,
   color: #fba0cc;
 }
 
+.button-tertiary {
+  background-color: #0099ff;
+  color: #fff;
+  border-color: #0099ff;
+}
+
+.button-tertiary:hover {
+  background-color: transparent;
+  color: #0099ff;
+}
+
 .button-twitter {
   background-color: #1c9bf0;
   color: #fff;
