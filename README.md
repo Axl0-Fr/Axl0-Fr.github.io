@@ -2,9 +2,12 @@
 
 [![Deploy Live Branch](https://github.com/Axl0-Fr/Axl0-Fr.github.io/actions/workflows/deploy-live.yml/badge.svg?branch=live)](https://github.com/Axl0-Fr/Axl0-Fr.github.io/actions/workflows/deploy-live.yml)
 
+[![Deploy Demo Branch](https://github.com/Axl0-Fr/Axl0-Fr.github.io/actions/workflows/deploy-demo.yml/badge.svg?branch=demo)](https://github.com/Axl0-Fr/Axl0-Fr.github.io/actions/workflows/deploy-demo.yml)
+
 ---
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
 [![Visit axl0.fr](https://img.shields.io/badge/Website-axl0.fr-pink?logo=globe)](https://www.axl0.fr)
 
 ## What can be found here
